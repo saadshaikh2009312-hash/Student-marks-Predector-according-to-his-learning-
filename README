@@ -1,0 +1,7 @@
+# Student Performance Predictor
+
+This is a Streamlit app that predicts students' final grades based on their study hours, attendance, assignments, and midterm scores.
+
+## Setup
+
+1. Create virtual environment:
